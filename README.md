@@ -1,4 +1,4 @@
-# ~~~~Chocolate~~ CASS Doom
+# ~~Chocolate~~ CASS Doom
 
 ~~Chocolate~~ CASS Doom aims to accurately reproduce the original DOS version of
 Doom and other games based on the Doom engine in a form that can be
